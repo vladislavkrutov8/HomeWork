@@ -1,0 +1,15 @@
+C:\git\WorkWithC#\HomeWorkC#\Task01\obj\Debug\net6.0\Task01.csproj.AssemblyReference.cache
+C:\git\WorkWithC#\HomeWorkC#\Task01\obj\Debug\net6.0\Task01.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\WorkWithC#\HomeWorkC#\Task01\obj\Debug\net6.0\Task01.AssemblyInfoInputs.cache
+C:\git\WorkWithC#\HomeWorkC#\Task01\obj\Debug\net6.0\Task01.AssemblyInfo.cs
+C:\git\WorkWithC#\HomeWorkC#\Task01\obj\Debug\net6.0\Task01.csproj.CoreCompileInputs.cache
+C:\git\WorkWithC#\HomeWorkC#\Task01\bin\Debug\net6.0\Task01.exe
+C:\git\WorkWithC#\HomeWorkC#\Task01\bin\Debug\net6.0\Task01.deps.json
+C:\git\WorkWithC#\HomeWorkC#\Task01\bin\Debug\net6.0\Task01.runtimeconfig.json
+C:\git\WorkWithC#\HomeWorkC#\Task01\bin\Debug\net6.0\Task01.dll
+C:\git\WorkWithC#\HomeWorkC#\Task01\bin\Debug\net6.0\Task01.pdb
+C:\git\WorkWithC#\HomeWorkC#\Task01\obj\Debug\net6.0\Task01.dll
+C:\git\WorkWithC#\HomeWorkC#\Task01\obj\Debug\net6.0\refint\Task01.dll
+C:\git\WorkWithC#\HomeWorkC#\Task01\obj\Debug\net6.0\Task01.pdb
+C:\git\WorkWithC#\HomeWorkC#\Task01\obj\Debug\net6.0\Task01.genruntimeconfig.cache
+C:\git\WorkWithC#\HomeWorkC#\Task01\obj\Debug\net6.0\ref\Task01.dll
